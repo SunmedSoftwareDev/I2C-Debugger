@@ -1,2 +1,2 @@
-# I2C-Transmit
-I2C Transmit dummy for r-90 debug
+# I2C Transmit
+ Argon I2C Transmit demonstrator for R-90 debug
